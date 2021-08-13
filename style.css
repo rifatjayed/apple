@@ -1,0 +1,43 @@
+
+.container{
+    margin-bottom: 100px;
+}
+.cat1{
+    background-color: blue;
+padding: 20px;
+}
+.cat2{
+    background-color: orange;
+    padding: 20px;
+}
+.cat3{
+    background-color: pink;
+    padding: 20px;
+}
+.card-box{
+    padding: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+}
+.buy{
+    border: none;
+    background-color: black;
+    padding: 10px 20px;
+    color: #fff;
+    border-radius: 10px;
+    
+}
+.see{
+    font-weight: 500;
+    color: yellow;
+}
+.logo{
+    height: 50px;
+}
+
+.secnd {
+    margin-top: 50px;
+}
+.shoe{
+    margin-bottom: 50px;
+}
